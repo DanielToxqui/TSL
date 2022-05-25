@@ -1,0 +1,17 @@
+body{
+
+    background-color: #17181b;
+    color: aliceblue    ;
+}
+
+Nav{
+    position: absolute;
+    top: 10%;
+    left: 85%;
+}
+
+.portada{
+    position: absolute;
+    top: 30%;
+    left: 80%;
+}

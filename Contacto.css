@@ -1,0 +1,113 @@
+body{
+    
+    background-image: url(../img/Portada\ del\ proyect.jpg);
+    background-color: #17181b;
+    color: rgb(0, 144, 228);
+    
+}
+body {
+	background-color: #202f58;
+}
+body {
+
+    background-image:#000;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 551px;
+}
+
+.formulario{
+
+    position:absolute;
+    top: 30%;
+    left: 20%;
+}
+
+.formulario{
+    margin-top: 80px;
+	color:#17181b;
+
+
+    height: 38px;
+    padding: 6px 10px;
+    background-color: #fff;
+    
+}
+
+.no-margin{
+    position: absolute;
+    top:20% ;
+    left: 20%;
+}
+
+.Letras{
+
+    position:absolute;
+    top: 15%;
+    left:32%;
+
+    text-decoration: dotted;
+}
+.nav{
+    display:grid;
+    text-align: center;
+    font-size: 1.8rem;
+    color: var(--blanco);   
+
+
+}
+.nav{
+    position:absolute;
+    top: 10%;
+    left: 85%;
+}
+
+
+
+.formulario {
+    background-color: var(--blanco);
+    margin: -5rem auto 0 auto;
+    width: 50%;
+    padding: 5rem;
+}
+.campo {
+    display: flex;
+    margin-bottom: 2rem;
+}
+.campo__label {
+    flex: 0 0 9rem;
+    text-align: right;
+    padding-right: 3rem;
+} 
+.campo__field {
+    flex: 1;
+    border: 1px solid var(--gris);
+}
+.campo__field--textarea {
+   height: 20rem;
+}
+
+
+.Boton1{
+
+    position:absolute;
+    top: 75%;
+    left: 80%;
+}
+
+.Boton2{
+
+    position:absolute;
+    top: 85%;
+    left: 80%;
+}
+.enviar {
+    position: absolute;
+    top: 95%;
+    left:80%;
+}
+
+.Letras{
+    position: absolute;
+    left: 36%;
+}

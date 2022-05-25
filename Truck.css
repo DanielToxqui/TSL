@@ -1,0 +1,65 @@
+body{
+    background-color: #17181b;
+}
+
+h1{
+    color: rgb(0, 125, 197);
+}
+h1{
+    position: absolute;
+    top:15%;
+    left:66%;
+}
+
+header{
+	padding: 20px 0 0 0;
+	background: #1d2124;
+	text-align: center;
+}
+
+.Imagen{
+    position: absolute;
+    left: 20%;
+}
+
+
+.row{
+    position: absolute;
+    top: 15%;
+    
+    }
+
+h4
+{
+    color:rgb(255, 255, 255);
+
+}
+
+.Info{
+
+    color:rgb(255, 255, 255);
+    position: absolute;
+    top: 70%;
+    left: 60%;
+
+}
+
+.enviar {
+    position: absolute;
+    top: 84.3%;
+    left: 75%;
+}
+
+h4{
+    position: absolute;
+    top: 30%;
+    left: 60%;
+}
+
+.tcl-carousel-v2__toggles {
+    padding-bottom: 72px;
+    padding-bottom: var(--tcl-carousel-v2-toggles-padding-block-end);
+    padding-top: 72px;
+    padding-top: var(--tcl-carousel-v2-toggles-padding-block-start);
+    width: 100%;
+}
