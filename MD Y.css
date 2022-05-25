@@ -1,0 +1,72 @@
+body{
+    background-color: #17181b;
+}
+
+h1{
+    color: rgb(0, 125, 197);
+    text-align: center;
+    color: rgb(0, 144, 228);
+    font-family: Arial, Helvetica, sans-serif;
+    border-bottom: 1px solid #808080;
+}
+h1{
+    position: absolute;
+    top:15%;
+    left: 53%;
+}
+
+header{
+	padding: 20px 0 0 0;
+	background: #1d2124;
+	text-align: center;
+}
+
+.Imagen{
+    position: absolute;
+    left: 20%;
+}
+
+
+.row{
+    position: absolute;
+    top: 15%;
+    
+    }
+
+h4
+{
+    color:rgb(255, 255, 255);
+
+}
+
+.Info{
+
+    color:rgb(255, 255, 255);
+    position: absolute;
+    top: 70%;
+    left: 53%;
+
+}
+
+.enviar {
+    position: absolute;
+    top: 84.3%;
+    left:53%;
+}
+
+h4{
+    position: absolute;
+    top: 30%;
+    left: 53%;
+}
+
+
+.IMG img{
+
+    width: 30%;
+    height: 70%;
+    height: 25;
+    position: absolute;
+    top: 19%;
+    padding-left: 12rem;
+}
